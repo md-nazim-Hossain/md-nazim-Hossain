@@ -1,4 +1,5 @@
-![logo](https://github.com/md-nazim-Hossain/md-nazim-Hossain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+[![Watch the video](https://github.com/md-nazim-Hossain/md-nazim-Hossain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://github.com/md-nazim-Hossain/md-nazim-Hossain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.mp4)
 
 <h1 align="center">Hi 👋, I'm Md Nazim Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
